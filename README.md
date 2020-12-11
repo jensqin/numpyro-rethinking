@@ -1,0 +1,2 @@
+# statistical-rethinking
+Bayesian models
